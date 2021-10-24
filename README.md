@@ -6,6 +6,7 @@
     <ul>
         <li><a href="https://docs.webstream.dev/#/">docs.webstream.dev</a></li>
         <li><a href="https://github.com/web-stream/docs/edit/main/README.md">edit docs</a></li>
+        <li>Clone link: https://github.com/web-stream/docs.git</li>
     </ul>
 </details>
 
@@ -25,17 +26,6 @@
 
 hipermodularyzacja
 modularyzacja
-
-
-### Jak jest zaimplementowana w WebStream
-
-
----
-+ [edit](https://github.com/web-stream/docs/edit/main/README.md)
-
-```
-https://github.com/web-stream/docs.git
-```
 
 ### Wstęp
 
