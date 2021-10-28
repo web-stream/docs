@@ -35,7 +35,7 @@ modularyzacja
 ### Wstęp
 
 ---
-WebStream jest to javascript-owa biblioteka pozwalająca na renderowanie modułów w czasie rzeczywistym bez ich wczesniejszej kompilacji. Biblioteka pozwala developerom na tworzenie aplikacji frontendowych w "natywnych" językach przeglądarkowych (HTML, CSS, JS).
+WebStream jest to javascript-owa biblioteka pozwalająca na renderowanie modułów w czasie rzeczywistym bez ich wczesniejszej kompilacji. Biblioteka pozwala developerom na tworzenie aplikacji frontendowych w "natywnych" językach przeglądarkowych (HTML, CSS, JS). Nasza biblioteka oferuje calkiem nowe podejscie do mikrofrontendu!
 
 ### Historia
 
