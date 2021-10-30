@@ -8,7 +8,8 @@
 + [www.webstream.dev](https://www.webstream.dev/#/)
 + [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 + [other.webstream.dev](https://other.webstream.dev/#/)
-
++ [other.webstream.dev](https://other.webstream.dev/#/)
++ [modules.webstream.dev](https://modules.webstream.dev/#/)
 
 <details>
     <summary>Edit docs</summary>
