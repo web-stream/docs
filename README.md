@@ -68,7 +68,7 @@ Przyklad implementacji:
 
     <script src="https://get.jloads.com/jloads.min.js"></script>
 
-Alternatywą jest pobranie kodu i zaimportowanie go z naszego dysku:
+Alternatywą jest [pobranie kodu](https://get.jloads.com/jloads.min.js) i zaimportowanie go z naszego dysku:
 
     <script src="ścierzka_do_pliku"></script>
 
