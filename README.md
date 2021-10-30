@@ -1,5 +1,10 @@
-# docs.webstream.dev
+![logo webstream](https://logo.webstream.dev/3/cover.png)
 
+<img alt="open collective badge" src="https://opencollective.com/webstream/tiers/backer/badge.svg?label=backer&color=brightgreen" />
+<img alt="open collective badge" src="https://opencollective.com/webstream/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen" />
+<object type="image/svg+xml" data="https://opencollective.com/webstream/tiers/backer.svg?avatarHeight=36&width=600"></object>
+
+# [docs.webstream.dev](https://docs.webstream.dev/#/)
 
 <details>
     <summary>Edit docs</summary>
@@ -30,7 +35,7 @@ modularyzacja
 ### Wstęp
 
 ---
-WebStream jest to javascript-owa biblioteka pozwalająca na renderowanie modułów w czasie rzeczywistym bez ich wczesniejszej kompilacji. Biblioteka pozwala developerom na tworzenie aplikacji frontendowych w "natywnych" językach przeglądarkowych (HTML, CSS, JS).
+WebStream jest to javascript-owa biblioteka pozwalająca na renderowanie modułów w czasie rzeczywistym bez ich wczesniejszej kompilacji. Biblioteka pozwala developerom na tworzenie aplikacji frontendowych w "natywnych" językach przeglądarkowych (HTML, CSS, JS). Nasza biblioteka oferuje calkiem nowe podejscie do mikrofrontendu!
 
 ### Historia
 
@@ -49,6 +54,7 @@ Aby omówić, możliwości tej biblioteki należy, najpierw zrozumieć istnieją
 ### Zastosowanie
 
 ---
+
 Nasza biblioteka sprawdzi się bardzo dobrze podczas prototypownia aplikacji, ale także w aplikacji, która posiada dobrze zbudowany system cashowania. Dzięki wykorzystaniu cashowania oraz naszej biblioteki możemy znacznie przyspieszyć proces działania aplikacji, a także znacznie zmniejszyć wagę aplikacji otrzymywanej przez odbiorcę poprzez załadowanie jedynie niezbędnych elementów strony ktore są w użytku, oraz doładowanie kolejnych modolow, gdy tylko będą potrzebne bez konieczności odsiwrzania strony. 
 
 Dzięki dynamicznemu pobieraniu modułów jesteśmy w stanie doładować do naszej aplikacji moduł po wyrenderowaniu strony, dzięki temu jesteśmy w stanie dynamicznie wczytać reklamy na stronę bądź aplikacje a ponadto przy użyciu paru innych bibliotek jesteśmy w stanie, przechwycić reklamę od reklamodawcy, a następnie wygenerować ja w naszej stronie pod naszą domeną pozwala nam to ominąć wszelkie rozszerzenia blokujące reklamy.
@@ -68,3 +74,4 @@ Alternatywą jest pobranie kodu i zaimportowanie go z naszego dysku:
     <script src="ścierzka_do_pliku"></script>
 
 W przyszlosci dodamy nasza biblioteke na npm.
+
