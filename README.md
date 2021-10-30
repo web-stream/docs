@@ -5,6 +5,10 @@
 
 # [docs.webstream.dev](https://docs.webstream.dev/#/)
 
++ [www.webstream.dev](https://www.webstream.dev/#/)
++ [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
+
+
 <details>
     <summary>Edit docs</summary>
     <ul>
@@ -73,4 +77,27 @@ Alternatywą jest [pobranie kodu](https://get.jloads.com/jloads.min.js) i zaimpo
     <script src="ścierzka_do_pliku"></script>
 
 W przyszlosci dodamy nasza biblioteke na npm.
+
+
+
+
+
+## Substantively supported by: 
+
++ [SaaS is King .com](https://www.saasisking.com/)
++ [hyper Modularity .com](https://www.hypermodularity.com/)
+
+
+## Sponsored by:
+
++ [Softreck - Leadership Through Software Development](https://softreck.com/), Leadership through software development
+
+
+
+---
++ [edit](https://github.com/web-stream/www/edit/main/README.md)
++ [web-stream/www: Website about Webstreaming - WebStream.dev](https://github.com/web-stream/www)
+```
+https://github.com/web-stream/www.git
+```
 
