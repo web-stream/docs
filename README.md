@@ -79,7 +79,7 @@ Przyklad implementacji:
 
 Alternatywą jest [pobranie kodu](https://get.jloads.com/jloads.min.js) i zaimportowanie go z naszego dysku:
 
-    <script src="ścierzka_do_pliku"></script>
+    <script src="ścieżka_do_pliku"></script>
 
 W przyszlosci dodamy nasza biblioteke na npm.
 
