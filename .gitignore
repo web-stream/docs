@@ -1,3 +1,7 @@
+.idea/
+apicra.php
+#.apibuild
+
 # Logs
 logs
 *.log
