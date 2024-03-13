@@ -8,6 +8,10 @@
 
 # [docs.webstream.dev](https://docs.webstream.dev/#/)
 
+[Interface-Centric Solutions - Interface - Edi.Chat, VoCo.Cam](INTERFACE.md)
+
+## Menu
+
 + [www.webstream.dev](https://www.webstream.dev/#/)
 + [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 + [other.webstream.dev](https://other.webstream.dev/#/)
@@ -31,6 +35,25 @@
         <li><a href="">DE</a></li>
     </ul>
 </details>
+
+
+## Solutions
+
+
+## text command
++ textware.org
++ apiTerminal
+
+## audio
++ voco.cam
++ do.camera
+  
+## chat
++ edi.chat PROCESS
++ do.camera
+
+
+
 
 ## Dokumentacja PL
 
